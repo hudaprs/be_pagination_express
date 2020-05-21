@@ -4,7 +4,7 @@ Pagination in ExpressJS using MongoDB
 
 ### Example Results
 
-![Example Result](https://ibb.co/6WzpG7V)
+![Example Result](example-result.PNG)
 
 ### Project Setup
 
